@@ -1,0 +1,28 @@
+page-signin {
+
+  .body {
+    background: rgb(197,222,234); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(197,222,234,1) 68%, rgba(138,187,215,1) 84%, rgba(6,109,171,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(197,222,234,1) 68%,rgba(138,187,215,1) 84%,rgba(6,109,171,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(197,222,234,1) 68%,rgba(138,187,215,1) 84%,rgba(6,109,171,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+  }
+
+  .inputs{
+    border: 2px solid rgb(54, 136, 187);
+    border-radius: 25px;
+    margin-bottom: 5px;
+  }
+
+  .entrar{
+    color: #fff;
+  }
+
+  .img {
+    background: transparent !important;
+  }
+
+}
+
+
+
